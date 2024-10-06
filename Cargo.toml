@@ -1,0 +1,11 @@
+[package]
+name = "example-mvdparser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.89"
+mvdparser = "0.17.0"
+quake_text = "0.2.0"
+serde = "1.0.210"
+serde_json = "1.0.128"
